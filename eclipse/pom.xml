@@ -248,7 +248,10 @@
         </executions>
       </plugin>
     </plugins>         
-                 
+     
+         
+         
+     <defaultGoal>compile</defaultGoal>
   </build>
   <name>MyBatis Generator - Eclipse Feature</name>
 </project>
